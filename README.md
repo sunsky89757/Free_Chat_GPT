@@ -6,7 +6,7 @@
 - gpt-3.5-turbo
 - gpt-4o-mini
 - deepseek-chat
-- llama3-70b
+- llama-3.1-70b
 ## Why use it?
 - Can be used in restricted areas like China without a VPN.
 - Can be used directly without registration and login
@@ -20,7 +20,7 @@
 - gpt-3.5-turbo
 - gpt-4o-mini
 - deepseek-chat
-- llama3-70b
+- llama-3.1-70b
 ## 为什么使用它？
 - 可以不通过vpn在非支持国家使用，如中国。
 - 无需注册与登录
